@@ -1,7 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="BorrowReturn.index" %>
-<!--
-    v1.0.0 initialized by Wale Yan   2016-2-22
-    -->
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -14,6 +12,7 @@
     <div>
         <div>
              <h2>PPDC Borrow&Return System</h2>
+             <h5>(v1.0.0)</h5>
             <HR style="border:1 dashed #987cb9; margin-left: 0px;" width="100%" ;SIZE=1>
                <h4>Welcome,
                    <asp:Label ID="Label_FirstName" runat="server" ForeColor="Blue" ></asp:Label>

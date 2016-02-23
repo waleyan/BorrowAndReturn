@@ -93,7 +93,7 @@
         <br />
         <br />
     
-        <asp:Label ID="Label_Error" runat="server" Text="Label"></asp:Label>
+        <asp:Label ID="Label_Error" runat="server"></asp:Label>
         <br />
         <br />
     

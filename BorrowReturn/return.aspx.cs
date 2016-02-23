@@ -19,9 +19,7 @@ namespace BorrowReturn
                 Response.Redirect("index.aspx");
 
             mid = Request.QueryString["id"];
-         //   Label_Error.Text = mid;
-            if (mid == null)
-                Response.Redirect("admin.aspx");
+            Label_Error.Text = mid;
         }
     }
 }
