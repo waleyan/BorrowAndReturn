@@ -103,6 +103,11 @@ namespace BorrowReturn
                 {
                     Label_Error.Text = ee.ToString();
                 }
+
+                string strRedirectPage = "admin.aspx";
+                string strRedirectTime = "5";
+                string strRedirect = string.Format("{0};url={1}", strRedirectTime, strRedirectPage);
+                Response.AddHeader("refresh", strRedirect);
             }
         }
 
