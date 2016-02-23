@@ -31,6 +31,15 @@ namespace BorrowReturn {
         protected global::System.Web.UI.WebControls.Label Label_User;
         
         /// <summary>
+        /// TextBox_User control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBox_User;
+        
+        /// <summary>
         /// TextBox_Model control.
         /// </summary>
         /// <remarks>
@@ -38,6 +47,15 @@ namespace BorrowReturn {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox TextBox_Model;
+        
+        /// <summary>
+        /// ListBox_Amount control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.ListBox ListBox_Amount;
         
         /// <summary>
         /// TextBox_Remarks control.
@@ -49,13 +67,13 @@ namespace BorrowReturn {
         protected global::System.Web.UI.WebControls.TextBox TextBox_Remarks;
         
         /// <summary>
-        /// CheckBox1 control.
+        /// CheckBox_A control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CheckBox CheckBox1;
+        protected global::System.Web.UI.WebControls.CheckBox CheckBox_A;
         
         /// <summary>
         /// Button_Return control.

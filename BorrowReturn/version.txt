@@ -1,1 +1,2 @@
 v1.0.0 initialized by Wale Yan   2016-2-22
+v1.1.0 add return function

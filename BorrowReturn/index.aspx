@@ -12,7 +12,7 @@
     <div>
         <div>
              <h2>PPDC Borrow&Return System</h2>
-             <h5>(v1.0.0)</h5>
+             <h5>(v1.1.0)</h5>
             <HR style="border:1 dashed #987cb9; margin-left: 0px;" width="100%" ;SIZE=1>
                <h4>Welcome,
                    <asp:Label ID="Label_FirstName" runat="server" ForeColor="Blue" ></asp:Label>
